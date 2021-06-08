@@ -1,0 +1,12 @@
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\bin\Debug\netcoreapp3.1\Pokédex.exe
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\bin\Debug\netcoreapp3.1\Pokédex.deps.json
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\bin\Debug\netcoreapp3.1\Pokédex.runtimeconfig.json
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\bin\Debug\netcoreapp3.1\Pokédex.runtimeconfig.dev.json
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\bin\Debug\netcoreapp3.1\Pokédex.dll
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\bin\Debug\netcoreapp3.1\Pokédex.pdb
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\obj\Debug\netcoreapp3.1\Pokédex.csprojAssemblyReference.cache
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\obj\Debug\netcoreapp3.1\Pokédex.csproj.CoreCompileInputs.cache
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\obj\Debug\netcoreapp3.1\Pokédex.AssemblyInfoInputs.cache
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\obj\Debug\netcoreapp3.1\Pokédex.AssemblyInfo.cs
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\obj\Debug\netcoreapp3.1\Pokédex.dll
+C:\Users\LJ\Desktop\Workspace\GitHub\Pokédex\Pokédex\obj\Debug\netcoreapp3.1\Pokédex.pdb

@@ -1,0 +1,26 @@
+1__Bulbasaur_Grass Poision_There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.
+2__Ivysaur_Grass Poision_When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.
+3__Venusaur_Grass Poision_Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
+4__Charmander_Fire_It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.
+5__Charmeleon_Fire_It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
+6__Charizard_Fire Flying_It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.
+7__Squirtle_Water_When it retracts its long neck into its shell, it squirts out water with vigorous force.
+8__Wartortle_Water_It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.
+9__Blastoise_Water_It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.
+10__Caterpie_Bug_For protection, it releases a horrible stench from the antenna on its head to drive away enemies.
+11__Metapod_Bug_It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.
+12__Butterfree_Bug Flying_In battle, it flaps its wings at great speed to release highly toxic dust into the air.
+13__Weedle_Bug Poision_Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
+14__Kakuna_Bug Poision_Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.
+15__Beedrill_Bug Poision_It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
+16__Pidgey_Normal Flying_Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.
+17__Pidgeotto_Normal Flying_This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.
+18__Pidgeot_Normal Flying_This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.
+19__Rattata_Normal_Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.
+20__Raticate_Normal_Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.
+21__Spearow_Normal Flying_Inept at flying high. However, it can fly around very fast to protect its territory.
+22__Fearow_Normal Flying_A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.
+23__Ekans_Poision_The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.
+24__Arbok_Poision_The frightening patterns on its belly have been studied. Six variations have been confirmed.
+25__Pikachu_Electric_Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.
+26__Raichu_Electric_Its long tail serves as a ground to protect itself from its own high-voltage power.
