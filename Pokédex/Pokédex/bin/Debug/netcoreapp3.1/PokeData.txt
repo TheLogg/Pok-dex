@@ -1,6 +1,6 @@
-1__Bulbasaur_Grass Poision_There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.
-2__Ivysaur_Grass Poision_When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.
-3__Venusaur_Grass Poision_Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
+1__Bulbasaur_Grass Poison_There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.
+2__Ivysaur_Grass Poison_When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.
+3__Venusaur_Grass Poison_Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
 4__Charmander_Fire_It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.
 5__Charmeleon_Fire_It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
 6__Charizard_Fire Flying_It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.
@@ -10,9 +10,9 @@
 10__Caterpie_Bug_For protection, it releases a horrible stench from the antenna on its head to drive away enemies.
 11__Metapod_Bug_It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.
 12__Butterfree_Bug Flying_In battle, it flaps its wings at great speed to release highly toxic dust into the air.
-13__Weedle_Bug Poision_Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
-14__Kakuna_Bug Poision_Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.
-15__Beedrill_Bug Poision_It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
+13__Weedle_Bug Poison_Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
+14__Kakuna_Bug Poison_Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.
+15__Beedrill_Bug Poison_It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
 16__Pidgey_Normal Flying_Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.
 17__Pidgeotto_Normal Flying_This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.
 18__Pidgeot_Normal Flying_This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.
@@ -20,7 +20,132 @@
 20__Raticate_Normal_Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.
 21__Spearow_Normal Flying_Inept at flying high. However, it can fly around very fast to protect its territory.
 22__Fearow_Normal Flying_A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.
-23__Ekans_Poision_The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.
-24__Arbok_Poision_The frightening patterns on its belly have been studied. Six variations have been confirmed.
+23__Ekans_Poison_The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.
+24__Arbok_Poison_The frightening patterns on its belly have been studied. Six variations have been confirmed.
 25__Pikachu_Electric_Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.
 26__Raichu_Electric_Its long tail serves as a ground to protect itself from its own high-voltage power.
+27__Sandshrew_Ground_It loves to bath in the grit of dry, sandy areas. By sandbathing, the Pokèmon rids itself of dirt and moisture clinging to its body.
+28__Sandslash_Ground_The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.
+29__Nidoran♀_Poison_Females are more sensitive to smells than males. While foraging, they’ll use their whiskers to check wind direction and stay downwind of predators.
+30__Nidorina_Poison_The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.
+31__Nidoqueen_Poison Ground_Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.
+32__Nidoran♂_Poison_The horn on a male Nidoran’s forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.
+33__Nidorino_Poison_With a horn that’s harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.
+34__Nidoking_When it goes on a rampage, it’s impossible to control. But in the presence of a Nidoqueen it’s lived with for a long time, Nidoking calms down.
+35__Clefairy_Fairy_It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
+36__Clefable_Fairy_A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.
+37__Vulpix_Fire_While young, it has six gorgeous tails. When it grows, several new tails are sprouted.
+38__Ninetales_Fire_It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.
+39__Jigglypuff_Normal Fairy_Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won’t stop singing its lullabies until its foes fall asleep.
+40__Wigglytuff_Normal Fairy_The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.
+41__Zubat_Poison Flying_It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.
+42__Golbat_Poison Flying_It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.
+43__Oddish_Grass Poison_If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.
+44__Gloom_Grass Poison_Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.
+45__Vileplume_Grass Poison_It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.
+46__Paras_Bug Grass_Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.
+47__Parasect_Bug Grass_The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.
+48__Venonat_Bug Poison_Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.
+49__Venomoth_Bug Poison_The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.
+50__Diglett_Ground_If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.
+51__Dugtrio_Ground_A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.
+52__Meowth_Normal_It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.
+53__Persian_Normal_Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.
+54__Psyduck_Water_Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.
+55__Golduck_Water_This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.
+56__Mankey_Fighting_An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.
+57__Primeape_Fighting_It stops being angry only when nobody else is around. To view this moment is very difficult.
+58__Growlithe_Fire_It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.
+59__Arcanine_Fire_The sight of it running over 6,200 miles in a single day and night has captivated many people.
+60__Poliwag_Water_For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.
+61__Poliwhirl_Water_Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.
+62__Poliwrath_Water Fighting_Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.
+63__Abra_Psychic_This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.
+64__Kadabra_Psychic_This Pokémon’s telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.
+65__Alakazam_Psychic_It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.
+66__Machop_Fighting_Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.
+67__Machoke_Fighting_Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.
+68__Machamp_Fighting_It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.
+69__Bellsprout_Grass Poison_Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.
+70__Weepinbell_Grass Poison_When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.
+71__Victreebel_Grass Poison_Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.
+72__Tentacool_Water Poison_Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.
+73__Tentacruel_Water Poison_When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.
+74__Geodude_Rock Ground_Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.
+75__Graveler_Rock Ground_Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.
+76__Golem_Rock Ground_Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.
+77__Ponyta_Fire_It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger. If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.
+78__Rapidash_Fire_This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind. The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.
+79__Slowpoke_Water Psychic_Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either.
+80__Slowbro_Water Psychic_Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream.
+81__Magnemite_Electric Steel_At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again.
+82__Magneton_Electric Steel_This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.
+83__Farfetch'd_Normal Flying_The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.
+84__Doduo_Normal Flying_Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.
+85__Dodrio_Normal Flying_One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.
+86__Seel_Water_Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.
+87__Dewgong_Water Ice_Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.
+88__Grimer_Poison_Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.
+89__Muk_Poison_Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.
+90__Shellder_Water_It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.
+91__Cloyster_Water Ice_Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.
+92__Gastly_Ghost Poison_Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.
+93__Haunter_Ghost Poison_Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.
+94__Gengar_Ghost Poison_On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing. It is said to emerge from darkness to steal the lives of those who become lost in mountains.
+95__Onix_Rock Ground_As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.
+96__Drowzee_Psychic_If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.
+97__Hypno_Psychic_Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
+98__Krabby_Water_It can be found near the sea. The large pincers grow back if they are torn out of their sockets.
+99__Kingler_Water_Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.
+100__Voltorb_Electric_It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.
+101__Electrode_Electric_Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.
+102__Exeggcute_Grass Psychic_Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.
+103__Exeggutor_Grass Psychic_Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.
+104__Cubone_Ground_When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.
+105__Marowak_Ground_This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.
+106__Hitmonlee_Fighting_This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.
+107__Hitmonchan_Fighting_Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.
+108__Lickitung_Normal_If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either.
+109__Koffing_Poison_Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.
+110__Weezing_Poison_It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day.
+111__Rhyhorn_Ground Rock_Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.
+112__Rhydon_Ground Rock_It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.
+113__Chansey_Normal_The egg Chansey carries is not only delicious but also packed with nutrition. It’s used as a high-class cooking ingredient.
+114__Tangela_Grass_Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery.
+115__Kangaskhan_Normal_Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.
+116__Horsea_Water_Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.
+117__Seadra_Water_It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.
+118__Goldeen_Water_Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.
+119__Seaking_Water_In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.
+120__Staryu_Water_If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm.
+121__Starmie_Water Psychic_This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.
+122__Mr. Mime_Psychic Fairy_The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.
+123__Scyther_Bug Flying_As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.
+124__Jynx_Ice Psychic_In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.
+125__Electabuzz_Electric_Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.
+126__Magmar_Fire_Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.
+127__Pinsir_Bug_These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.
+128__Tauros_Normal_When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.
+129__Magikarp_Water_It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.
+130__Gyarados_Water Flying_It has an extremely aggressive nature. The Hyper Beam it shoots from its mouth totally incinerates all targets.
+131__Lapras_Water Ice_A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.
+132__Ditto_Normal_It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes. When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.
+133__Eevee_Normal_It has the ability to alter the composition of its body to suit its surrounding environment. Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.
+134__Vaporeon_Water_When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours. Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.
+135__Jolteon_Electric_If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes. It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.
+136__Flareon_Fire_Once it has stored up enough heat, this Pokémon’s body temperature can reach up to 1,700 degrees Fahrenheit.
+137__Porygon_Normal_State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.
+138__Omanyte_Rock Water_Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.
+139__Omastar_Rock Water_Weighed down by a large and heavy shell, Omastar couldn’t move very fast. Some say it went extinct because it was unable to catch food.
+140__Kabuto_Rock Water_This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.
+141__Kabutops_Rock Water_Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.
+142__Aerodactyl_Rock Flying_This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.
+143__Snorlax_Normal_It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.
+144__Articuno_Ice Flying_It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it. This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.
+145__Zapdos_Electric Flying_This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds. Zapdos is a legendary bird Pokémon. It’s said that when Zapdos rubs its feathers together, lightning will fall immediately after.
+146__Moltres_Fire Flying_It’s one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow. There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.
+147__Dratini_Dragon_Dratini dwells near bodies of rapidly flowing water, such as the plunge pools of waterfalls. As it grows, Dratini will shed its skin many times.
+148__Dragonair_Dragon_This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.
+149__Dragonite_It’s a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them. This Pokémon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships.
+150__Mewtwo_Psychic_Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.
+151__Mew_Psychic_Dittos are rumored to be failed Mew cloens, as Mew can also change its shape at-will. Mew can learn any move, and it is said that it is one of the very first Pokèmon.
